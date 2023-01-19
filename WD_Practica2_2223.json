@@ -98,4 +98,13 @@
          "texto": "Follow your rhythm",
          "url": "https://staccioligabriela.github.io/decoraconcept/"	
       }
+      {
+         "id": 12,
+         "autor": "Maria Canela i Aida Cotes",
+         "titulo": "Some Shit Art",
+         "srcimg": "https://i.ibb.co/3rnD5N4/art.jpg",
+         "alt": "some_shit_art",
+         "texto": "Some Shit Art és una pàgina on es poden veure les fotografies i dibuixos del nostre art.",
+         "url": "https://maiacanela.github.io/practicawd/"
+      }
 ]
